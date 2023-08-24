@@ -14,5 +14,5 @@ pip install -r requirements.txt
 ```
 python3 manage.py runserver
 ```
-### Авторы
-Олеся
+## Автор
+[@olees-orlenko](https://github.com/olees-orlenko)
